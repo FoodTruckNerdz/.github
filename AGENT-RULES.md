@@ -1,7 +1,6 @@
 # Agent Rules
 
-Org rules live in:
+- Overlay: https://github.com/FoodTruckNerdz/agent-rules
+- Shared: https://github.com/dev-centr/agent-rules
 
-- https://github.com/FoodTruckNerdz/agent-rules
-
-That repository wraps the shared template (`dev-centr/agent-rules`) as a `template/` submodule and keeps org-specific overlays in one obvious place.
+The wrapper holds org-specific `AGENTS.md` only. Do not submodule the canonical tree â€” clone/fetch `dev-centr/agent-rules` instead.
