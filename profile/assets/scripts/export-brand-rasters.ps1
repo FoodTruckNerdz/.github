@@ -1,8 +1,8 @@
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
-$RepoRoot = Split-Path (Split-Path $PSScriptRoot -Parent) -Parent
-$BrandRoot = Join-Path $RepoRoot 'assets/brand'
+$RepoRoot = Split-Path (Split-Path (Split-Path $PSScriptRoot -Parent) -Parent) -Parent
+$BrandRoot = Join-Path $RepoRoot 'profile/assets/brand'
 $FtnSiteRoot = Join-Path (Split-Path $RepoRoot -Parent) 'ftn-site'
 
 function Export-RasterSet {
@@ -108,8 +108,8 @@ foreach ($rev in $revisions) {
     )
 }
 
-# Gemini profile PNG (already raster; keep original + normalized sizes)
-$geminiSrc = Join-Path $RepoRoot 'profile/food-truck-nerdz-gemini-logo.png'
+# Gemini profile PNG (profile hero + revision archive)
+$geminiSrc = Join-Path $RepoRoot 'profile/assets/food-truck-nerdz-gemini-logo.png'
 $geminiDest = Join-Path $BrandRoot 'gemini-profile'
 if (Test-Path $geminiSrc) {
     New-Item -ItemType Directory -Force -Path $geminiDest | Out-Null

@@ -2,6 +2,6 @@
 
 Public github profile (<https://github.com/FoodTruckNerds/> - shown while logged out)
 
-## Brand assets
+## Profile assets
 
-Round-badge logos (SVG, PNG, PNG-256, ICO) and revision notes live in [`assets/brand/`](assets/brand/README.md). Regenerate rasters with [`assets/scripts/export-brand-rasters.ps1`](assets/scripts/export-brand-rasters.ps1).
+Visitor-facing images and the brand archive live under [`profile/assets/`](profile/assets/README.md). Regenerate rasters with [`profile/assets/scripts/export-brand-rasters.ps1`](profile/assets/scripts/export-brand-rasters.ps1).

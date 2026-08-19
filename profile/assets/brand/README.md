@@ -1,11 +1,11 @@
 # Brand assets
 
-Canonical archive of Food Truck Nerdz round-badge logos and related rasters.
+Canonical archive of Food Truck Nerdz round-badge logos under **`profile/assets/brand/`** (org `.github` standard). The live profile hero is [`../food-truck-nerdz-gemini-logo.png`](../food-truck-nerdz-gemini-logo.png).
 
 Regenerate PNG / PNG-256 / ICO exports after SVG changes:
 
 ```powershell
-./assets/scripts/export-brand-rasters.ps1
+./profile/assets/scripts/export-brand-rasters.ps1
 ```
 
 ## Revisions

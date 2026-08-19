@@ -1,4 +1,4 @@
-<img src="./food-truck-nerdz-gemini-logo.png" align="left" width="200"/>
+<img src="./assets/food-truck-nerdz-gemini-logo.png" align="left" width="200"/>
 
 ### `Food Truck Nerdz, LLC`
 
