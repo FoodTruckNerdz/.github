@@ -1,0 +1,4 @@
+revision: gemini-profile
+note: Org GitHub profile hero image (Gemini-generated raster).
+source_png: Z:\code\github.com\FoodTruckNerdz\.github\profile\food-truck-nerdz-gemini-logo.png
+exported: 2026-08-18T22:40:10.4415394-05:00

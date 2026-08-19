@@ -1,0 +1,4 @@
+revision: flat-illustrator
+note: Flat Illustrator export (.st0/.st1). Used by retired site-solidstart archive.
+source_svg: Z:\code\github.com\FoodTruckNerdz\ftn-site\site-solidstart\public\images\foodtrucknerdz.svg
+exported: 2026-08-18T22:40:07.0021831-05:00

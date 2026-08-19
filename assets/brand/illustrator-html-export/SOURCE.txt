@@ -1,0 +1,3 @@
+revision: illustrator-html-export
+note: Standalone HTML wrapper around an older flat Illustrator SVG export (reference only).
+source_html: ftn-site/docs/modules/nextjs/images/foodtrucknerdz-svg-logo.html

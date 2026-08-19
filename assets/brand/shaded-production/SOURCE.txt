@@ -1,0 +1,4 @@
+revision: shaded-production
+note: Canonical production badge (gradients + soft shadow). Used by site-nextjs.
+source_svg: Z:\code\github.com\FoodTruckNerdz\ftn-site\site-nextjs\public\images\foodtrucknerdz.svg
+exported: 2026-08-18T22:40:03.9241317-05:00

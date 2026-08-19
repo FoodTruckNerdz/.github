@@ -1,0 +1,4 @@
+revision: shaded-docs
+note: Docs copy; minor diff from shaded-production (no feDropShadow filter block).
+source_svg: Z:\code\github.com\FoodTruckNerdz\ftn-site\docs\modules\nextjs\images\foodtrucknerdz.svg
+exported: 2026-08-18T22:40:10.1140709-05:00
