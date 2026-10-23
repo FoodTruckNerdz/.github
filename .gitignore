@@ -1,0 +1,16 @@
+# Allow-list gitignore: everything is ignored unless explicitly un-ignored.
+# When adding a new root file or directory, add a `!` entry here.
+
+*
+!*/
+
+# Tracked root files and directories
+!/.gitignore
+!/.editorconfig
+!/.gitattributes
+!/.github/**
+!/.gitmodules
+!/AGENT-RULES.md
+!/dprint.jsonc
+!/profile/**
+!/README.md
